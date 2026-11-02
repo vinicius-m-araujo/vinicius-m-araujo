@@ -1,8 +1,6 @@
-# Vinicius Araújo — Engenheiro de Software
+# Vinicius Araújo — Software engineer
 
-Focado em .NET, C# e arquitetura de software. Atualmente construindo sistemas com Clean Architecture, Domain-Driven Design e ASP.NET Core — com atenção a código que resiste ao tempo e ao crescimento.
-
-No dia a dia: backend com .NET
+Focused on .NET, C#, and software architecture. Currently building systems using Clean Architecture, Domain-Driven Design, and ASP.NET Core—with a focus on code that stands the test of time and scales well.
 
 ---
 
@@ -16,15 +14,6 @@ No dia a dia: backend com .NET
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman" />
 </div>
 
----
-
-## Princípios que guiam meu trabalho
-
-- Código que o próximo dev consegue entender sem perguntar
-- Arquitetura que permite mudar sem quebrar
-- Aprender com profundidade, não com pressa
-
----
 
 ## Contato
 
